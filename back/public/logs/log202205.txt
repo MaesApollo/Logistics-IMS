@@ -1,0 +1,6 @@
+2022-05-20 09:49:03	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #2872, For Client: ali ahmad this is for test
+
+2022-05-20 09:54:55	--	1	--	Research and Development	--	DeliveryReceiptController	--	store	--	message	--	Created Delivery Receipt #2775 For Material Request #2870
+
+2022-05-20 14:35:08	--	1	--	Research and Development	--	DeliveryReceiptController	--	store	--	message	--	Created Delivery Receipt #2776 For Material Request #2869
+

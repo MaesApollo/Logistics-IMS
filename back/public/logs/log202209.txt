@@ -1,0 +1,8 @@
+2022-09-21 09:21:44	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+
+2022-09-21 09:25:20	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+
+2022-09-21 09:55:16	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+
+2022-09-27 09:41:21	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+

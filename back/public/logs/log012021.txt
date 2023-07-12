@@ -1,0 +1,60 @@
+2021-01-04 15:50:09	--		--		--	BillingController	--	emailSoa	--	Error	--	You must provide at least one recipient email address.
+
+2021-01-04 15:58:46	--		--	rnd@dctechmicro.com	--	BillingController	--	emailSoa	--	Error	--	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+2021-01-08 11:08:43	--		--		--	BillingController	--	storeBillStatement	--	Error	--	Trying to get property 'id' of non-object
+
+2021-01-08 11:09:50	--		--		--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement: 1
+
+2021-01-08 11:09:50	--		--		--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement: 1
+
+2021-01-08 11:09:51	--		--		--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement: 1
+
+2021-01-08 11:12:01	--		--		--	BillingController	--	storeBillStatement	--	Error	--	Trying to get property 'date' of non-object
+
+2021-01-08 11:13:25	--		--		--	BillingController	--	storeBillStatement	--	Error	--	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_scheduler.bill_state_lists' doesn't exist (SQL: insert into `bill_state_lists` (`balanceFormated`, `bill_statement_id`, `date`, `description`, `priceFormated`) values (587.00, 6, 2021-01-16, OTC - Installation Fee: Staggered 3 months -2/3, 587.00), (22,100.00, 6, 2021-01-16, MRR - SME Dec 19, 2020 - Jan 18, 2021, 22,400.00))
+
+2021-01-08 11:16:18	--		--		--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 7
+
+2021-01-08 11:19:36	--		--		--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 8
+
+2021-01-08 13:20:04	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 9
+
+2021-01-09 08:09:35	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 10
+
+2021-01-09 08:12:56	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 11
+
+2021-01-09 08:16:11	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 12
+
+2021-01-09 08:18:10	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 13
+
+2021-01-13 11:01:43	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'due_date' cannot be null (SQL: insert into `bill_statements` (`client_id`, `date`, `due_date`, `amount_due`) values (11096, 2021-01-13, ?, ?))
+
+2021-01-13 11:01:49	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'due_date' cannot be null (SQL: insert into `bill_statements` (`client_id`, `date`, `due_date`, `amount_due`) values (11096, 2021-01-13, ?, ?))
+
+2021-01-13 11:05:39	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'due_date' cannot be null (SQL: insert into `bill_statements` (`client_id`, `date`, `due_date`, `amount_due`) values (11096, 2021-01-13, ?, ?))
+
+2021-01-13 16:29:22	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'remarks' cannot be null (SQL: insert into `customer_payments` (`client_id`, `payment_method_id`, `banking_payment_code_id`, `amount`, `date`, `or_number`, `remarks`, `user_id`, `updated_at`, `created_at`) values (2739, ?, ?, 0, ?, ?, ?, 1, 2021-01-13 16:29:22, 2021-01-13 16:29:22))
+
+2021-01-13 16:29:47	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	message	--	Create new customer_payment: {"client_id":2739,"payment_method_id":null,"banking_payment_code_id":null,"amount":"3333","date":"2021-01-13","or_number":"or13","remarks":"333","user_id":1,"updated_at":"2021-01-13 16:29:47","created_at":"2021-01-13 16:29:47","id":30}
+
+2021-01-13 16:33:59	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'payment_method_id' cannot be null (SQL: insert into `customer_payments` (`client_id`, `payment_method_id`, `banking_payment_code_id`, `amount`, `date`, `or_number`, `remarks`, `user_id`, `updated_at`, `created_at`) values (2739, ?, ?, 3333, 2021-01-13, or13, 333, 1, 2021-01-13 16:33:59, 2021-01-13 16:33:59))
+
+2021-01-13 16:37:59	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'remarks' cannot be null (SQL: insert into `customer_payments` (`client_id`, `payment_method_id`, `banking_payment_code_id`, `amount`, `date`, `or_number`, `remarks`, `user_id`, `updated_at`, `created_at`) values (11096, 17, ?, 0, ?, ?, ?, 1, 2021-01-13 16:37:59, 2021-01-13 16:37:59))
+
+2021-01-13 16:40:00	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	Error	--	SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'remarks' cannot be null (SQL: insert into `customer_payments` (`client_id`, `payment_method_id`, `banking_payment_code_id`, `amount`, `date`, `or_number`, `remarks`, `user_id`, `updated_at`, `created_at`) values (11096, 17, ?, 0, ?, ?, ?, 1, 2021-01-13 16:40:00, 2021-01-13 16:40:00))
+
+2021-01-13 16:41:38	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	message	--	Create new customer_payment: {"client_id":2739,"payment_method_id":17,"banking_payment_code_id":null,"amount":0,"date":null,"or_number":null,"remarks":"asd","user_id":1,"updated_at":"2021-01-13 16:41:38","created_at":"2021-01-13 16:41:38","id":31}
+
+2021-01-13 17:01:18	--	1	--	Peter R. Bismonte	--	CustomerPaymentController	--	store	--	message	--	Create new customer_payment: {"client_id":11096,"payment_method_id":17,"banking_payment_code_id":null,"amount":"22400","date":"2021-01-13","or_number":"123123123","remarks":"asd","user_id":1,"updated_at":"2021-01-13 17:01:18","created_at":"2021-01-13 17:01:18","id":32}
+
+2021-01-15 09:36:32	--	1	--	Peter R. Bismonte	--	BillingController	--	storeBillStatement	--	message	--	Create new bill statement id: 14
+
+2021-01-15 10:40:44	--		--	rnd@dctechmicro.com	--	BillingController	--	emailSoa	--	Error	--	Undefined property: stdClass::$email
+
+2021-01-15 10:42:06	--		--	rnd@dctechmicro.com	--	BillingController	--	emailSoa	--	Error	--	Undefined property: stdClass::$email
+
+2021-01-15 10:47:28	--		--	rnd@dctechmicro.com	--	BillingController	--	emailSoa	--	Error	--	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+
+2021-01-21 15:04:31	--		--	rnd@dctechmicro.com	--	BillingController	--	emailSoa	--	Error	--	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+

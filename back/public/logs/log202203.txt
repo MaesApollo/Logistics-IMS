@@ -1,0 +1,10 @@
+2022-03-28 16:19:21	--	1	--	Research and Development	--	SalesReturnController	--	store	--	message	--	Create new Sales Return: #2, For Client: 1400
+
+2022-03-28 16:19:58	--	1	--	Research and Development	--	SalesReturnController	--	update	--	message	--	Update Item Status:10000234, For Sales Return #: 2
+
+2022-03-28 16:31:53	--	28	--	Alvin Jay Angcon	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 1402
+
+2022-03-28 16:32:03	--	1	--	Research and Development	--	DeliveryReceiptController	--	store	--	message	--	Created Delivery Receipt #1328 For Material Request #1402
+
+2022-03-28 16:52:19	--	28	--	Alvin Jay Angcon	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 1401
+

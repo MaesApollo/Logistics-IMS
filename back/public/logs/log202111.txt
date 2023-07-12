@@ -1,0 +1,202 @@
+2021-11-16 08:20:29	--	1	--	Research and Development	--	UserController	--	store	--	message	--	Create new User: this is a test
+
+2021-11-16 08:26:29	--	1	--	Research and Development	--	UserController	--	store	--	message	--	Create new User: This is a Test
+
+2021-11-16 08:46:43	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details from: [{"id":33,"name":"this is a test","email":"test123@test.com","password":"$2y$10$uWF0iSoYksAEDn\/Xi85X9.Gf4jWW46EMapxfbocnFpsIlm7Ywe0kS","remember_token":"LhWqdDhref","created_at":"2021-11-16 08:07:51","updated_at":"2021-11-16 08:07:51"}],to: 1
+
+2021-11-16 08:50:06	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 33
+
+2021-11-16 14:02:08	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: 198, For Client: ali ahmad this is for test
+
+2021-11-16 14:51:08	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 198
+
+2021-11-16 14:54:34	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #201, For Client: DICT - MISAMIS ORIENTAL GENERAL COMPREHENSIVE HIGH SCHOOL, With orders:1
+
+2021-11-16 14:59:09	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #204, For Client: DICT - UNIVERSITY OF SCIENCE AND TECHNOLOGY OF SOUTHERN PHILIPPINES, With orders:1
+
+2021-11-16 15:34:29	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #210, For Client: ?Capuyan, Anne Julan B.
+
+2021-11-17 11:14:34	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+
+2021-11-17 11:25:58	--	1	--	Research and Development	--	UserController	--	store	--	message	--	Create new User: Daryl Kate Good
+
+2021-11-17 11:27:59	--	1	--	Research and Development	--	UserController	--	store	--	message	--	Create new User: Peter Bismonte
+
+2021-11-17 11:29:18	--	1	--	Research and Development	--	UserController	--	store	--	message	--	Create new User: Peter Bismonte
+
+2021-11-17 13:01:40	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #276, For Client: Lolet M. Morta
+
+2021-11-17 13:08:53	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #278, For Client: Lolet M. Morta
+
+2021-11-17 13:24:56	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #280, For Client: Lolet M. Morta
+
+2021-11-17 13:28:55	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #284, For Client: Lolet M. Morta
+
+2021-11-17 13:29:21	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #285, For Client: Lolet M. Morta
+
+2021-11-17 13:30:00	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #286, For Client: Lolet M. Morta
+
+2021-11-17 13:30:26	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #287, For Client: Lolet M. Morta
+
+2021-11-17 13:42:15	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #288, For Client: Lolet M. Morta
+
+2021-11-17 13:45:20	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #289, For Client: Lolet M. Morta
+
+2021-11-17 13:57:45	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #290, For Client: WILMA HINLOG
+
+2021-11-17 14:04:56	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #291, For Client: Moelci I (Electric Coop.)
+
+2021-11-17 14:18:50	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #292, For Client: ali ahmad this is for test
+
+2021-11-17 14:32:08	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #293, For Client: DORECO (Electric Coop.)
+
+2021-11-17 14:44:19	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #294, For Client: DORECO (Electric Coop.)
+
+2021-11-17 14:45:29	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #295, For Client: DORECO (Electric Coop.)
+
+2021-11-18 15:30:48	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 26
+
+2021-11-18 15:31:04	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 26
+
+2021-11-18 16:14:49	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 27
+
+2021-11-18 16:26:27	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 19
+
+2021-11-19 12:52:05	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #278, For Client: ali ahmad this is for test
+
+2021-11-19 12:52:10	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #279, For Client: ali ahmad this is for test
+
+2021-11-19 12:52:20	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #280, For Client: ali ahmad this is for test
+
+2021-11-19 13:02:42	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #281, For Client: ali ahmad this is for test
+
+2021-11-19 13:04:54	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #282, For Client: ali ahmad this is for test
+
+2021-11-19 15:55:10	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #283, For Client: ali ahmad this is for test
+
+2021-11-19 15:57:59	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283
+
+2021-11-19 15:59:07	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283to Email for Approval
+
+2021-11-19 16:13:18	--	1	--	Research and Development	--	DeliveryReceiptController	--	store	--	message	--	Created Delivery Receipt #280 For Material Request #278
+
+2021-11-22 09:44:03	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Create new Purchase Order: #11, For Supplier: ***Eric Zhang***
+
+2021-11-22 10:14:16	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:19:52	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:23:19	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:23:59	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:24:52	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:36:04	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:38:50	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:39:10	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:45:42	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:46:19	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 10:47:58	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:50:03	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 1
+
+2021-11-22 10:54:23	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #9 to Email for Approval
+
+2021-11-22 10:55:00	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:55:37	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:57:31	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 10:59:52	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #10 to Email for Approval
+
+2021-11-22 11:21:43	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 11:22:44	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Sent Material Request: #283 to Email for Approval
+
+2021-11-22 11:26:22	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Sent Purchase Order: #11 to Email for Approval
+
+2021-11-22 15:52:25	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Create new Purchase Order: #6, For Supplier: 101 Newport Boulevard Condo Assoc. Inc.
+
+2021-11-22 15:58:58	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Create new Purchase Order: #7, For Supplier: A. John Alforque
+
+2021-11-23 08:15:58	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Create new Material Request: #301, For Client: ali ahmad this is for test
+
+2021-11-23 08:17:27	--	1	--	Research and Development	--	PurchaseOrderController	--	store	--	message	--	Create new Purchase Order: #8, For Supplier: Abenson Ventures Inc.
+
+2021-11-24 11:02:55	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 19
+
+2021-11-24 11:24:32	--	1	--	Research and Development	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 301
+
+2021-11-24 11:24:42	--	1	--	Research and Development	--	DeliveryReceiptController	--	store	--	message	--	Created Delivery Receipt #298 For Material Request #301
+
+2021-11-24 11:27:15	--	19	--	Ailyn Marimon	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 296
+
+2021-11-24 11:28:00	--	27	--	Lady Fe Cantorne	--	SalesOrderController	--	store	--	message	--	Approve Material Request #: 294
+
+2021-11-24 13:25:23	--	1	--	Research and Development	--	SalesReturnController	--	store	--	message	--	Create new Sales Return: #3, For Client: 29575
+
+2021-11-24 13:27:03	--	1	--	Research and Development	--	SalesReturnController	--	store	--	message	--	Create new Sales Return: #4, For Client: 22385
+
+2021-11-24 13:30:17	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:31:06	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:40:51	--		--		--	SalesReturnController	--	store	--	Error	--	Undefined property: stdClass::$id
+
+2021-11-24 13:42:10	--		--		--	SalesReturnController	--	store	--	Error	--	Undefined property: stdClass::$id
+
+2021-11-24 13:43:39	--		--		--	SalesReturnController	--	store	--	Error	--	Undefined property: stdClass::$id
+
+2021-11-24 13:44:09	--		--		--	SalesReturnController	--	store	--	Error	--	Undefined property: stdClass::$id
+
+2021-11-24 13:50:24	--	1	--	Research and Development	--	SalesReturnController	--	update	--	message	--	Update Item Status:10000001, For Sales Return #: 3
+
+2021-11-24 13:52:16	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:55:28	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:55:49	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:56:23	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:56:25	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:57:49	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:58:05	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:58:38	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:59:34	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 13:59:47	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:01:23	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:01:40	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:01:49	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:01:50	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:02:19	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:03:28	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:05:01	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:09:30	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-24 14:09:32	--		--		--	SalesReturnController	--	store	--	Error	--	Trying to get property 'id' of non-object
+
+2021-11-26 07:50:05	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 26
+
+2021-11-26 07:53:27	--	1	--	Research and Development	--	UserController	--	update	--	message	--	Update User Details ID: 26
+
